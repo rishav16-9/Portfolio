@@ -1,0 +1,10 @@
+.height-title {
+  padding-top: 10vh;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.img-h-w {
+  height: 150px;
+  width: 100%;
+}

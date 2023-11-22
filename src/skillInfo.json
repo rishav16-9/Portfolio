@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Javascript",
+        "image": "image/JavaScript.png"
+    },
+    {
+        "id": 2,
+        "title": "React",
+        "image": "image/react.png"
+    },
+    {
+        "id": 3,
+        "title": "Node",
+        "image": "image/node.jpg"
+    },
+    {
+        "id": 4,
+        "title": "MongoDB",
+        "image": "image/mongo.png"
+    },
+    {
+        "id": 5,
+        "title": "Flutter",
+        "image": "image/flutter.png"
+    },
+    {
+        "id": 6,
+        "title": "Dart",
+        "image": "image/dart.png"
+    },
+    {
+        "id": 7,
+        "title": "Python",
+        "image": "image/python.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Java",
+        "image": "image/java.png"
+    },
+    {
+        "id": 9,
+        "title": "C",
+        "image": "image/c.png"
+    },
+    {
+        "id": 10,
+        "title": "SQL",
+        "image": "image/sql.png"
+    }
+]
