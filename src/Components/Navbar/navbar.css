@@ -1,11 +1,11 @@
-.hide-hamburger-menu {
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
+  .hide-hamburger-menu {
     display: none;
   }
 }
 
-.HideMenu {
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
+  .HideMenu {
     display: none;
   }
 }
