@@ -14,7 +14,7 @@ function Navbar() {
   }
   return (
     <>
-      <div className="container px-4 py-2 items-center fixed">
+      <div className="container px-4 py-2 items-center fixed z-50">
         <div className="flex justify-between text-black font-bold">
           <div>
             <AnchorLink href="#home">Rishav Surana</AnchorLink>
