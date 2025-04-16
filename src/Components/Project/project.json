@@ -1,27 +1,34 @@
 [
     {
         "id": 1,
+        "title": "Weather Application",
+        "description": "This project is created using Flutter. It gives current weather and forecasting updating for next 10 days. It has both light and dark mode",
+        "url": "https://github.com/rishav16-9/Weather_Flutter",
+        "image": "image/weather.png"
+    },
+    {
+        "id": 2,
         "title": "Text Utils",
         "description": "This project is created using react js. It has multiple functionality for text editing according to user. It has both light and dark mode",
         "url": "https://github.com/rishav16-9/TextUtils-React",
         "image": "image/text.png"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "News Website",
         "description": "This project is created using react js where the data is fetched from the API and user can also read the news based on category like sport, entertainment",
         "url": "https://github.com/rishav16-9/News-App",
         "image": "image/news.png"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Note",
         "description": "This is full stack project using MERN where user can create, read, update and delete the notes",
         "url": "https://github.com/rishav16-9/iNotebook",
         "image": "image/notes.jfif"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Vehile speed detection",
         "description": "This is a opencv project where we are using harcascade algorithm to get the vehicle and find speed of the vehicle",
         "url": "https://github.com/rishav16-9/Vehicle-speed-detection",
